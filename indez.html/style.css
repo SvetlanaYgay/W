@@ -1,0 +1,19 @@
+h1{
+    color: rgb(11, 7, 63);
+}
+h2{
+    color: rgb(62, 30, 159);
+}
+a{
+    color: rgb(92, 32, 167);
+}
+body{
+    background-color: rgb(129, 127, 117);
+}
+img{
+    width: 400px;
+}
+
+.bigText{
+    font-size: 2rem;
+}
